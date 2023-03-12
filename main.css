@@ -1,0 +1,90 @@
+body{
+border-style: solid;
+width: 400px;
+height: 500px;
+margin-left: 500px;
+padding: 25px;
+}
+
+.box{
+background: #1a2a6c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #fdbb2d, #b21f1f, #1a2a6c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #fdbb2d, #b21f1f, #1a2a6c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+  
+.salutation{
+    height: 70px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+    font-size: 20px;
+    border-style: hidden;
+  
+   
+}
+
+.firstname{
+    height: 70px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+    font-size: 20px;
+    border-style: hidden;
+}
+
+.lastname{
+    height: 70px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+    font-size: 20px;
+    border-style: hidden;
+} 
+
+.gender{
+    height: 70px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+    font-size: 20px;
+    border-style: hidden;
+}
+
+.email{
+    height: 70px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+    font-size: 20px;
+    border-style: hidden;
+}
+
+.birthday{
+    height: 70px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+    font-size: 20px;
+    border-style: hidden;
+}
+
+.address{
+    height: 70px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+    font-size: 20px;
+    border-style: hidden;
+}
+
+.button{
+    height: 70px;
+    width: 400px;
+    border: 2px solid black;
+    margin: auto;
+    font-size: 20px;
+    border-style: hidden;
+    text-align: center;
+
+}
